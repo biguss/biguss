@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @biguss
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning Web Development
 - 📫 Reach me at pawelbigus77@gmail.com
 
 <!---
